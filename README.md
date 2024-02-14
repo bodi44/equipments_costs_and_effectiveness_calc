@@ -1,0 +1,1 @@
+# equipments_costs_and_effectiveness_calc
